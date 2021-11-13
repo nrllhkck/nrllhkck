@@ -1,10 +1,12 @@
 ### Hi there 👋
 
 My name is Nurullah.
-I am a software enthusiast and I am trying to improve myself on Full Stack Web development and object oriented programming.
-In order to improve myself in software, I started to study computer programming at university. 
-I'm learning Javascript-based technologies (React, Node, Express, Mongoose),
-and I'm working on object-oriented programming with C#. 
+<p> I am a software enthusiast and I am trying to improve myself on Web development and object oriented programming.</p>
+
+<p> In order to improve myself in software, I started to study computer programming at university.</p> 
+
+<p> I'm learning Javascript-based technologies (React, Node, Express, Mongoose),
+and I'm working on object-oriented programming with C#. </p> 
 
 
 - 🌱 I’m currently learning javascript,react.js,node.js and C#.
